@@ -1,0 +1,19 @@
+# GitHub Pages Configuration
+title: "Dr. Arun Kumar - Postdoctoral Researcher Candidate"
+description: "Academic portfolio and research profile of Dr. Arun Kumar, specializing in Empirical Software Engineering, AI for Software Engineering, and Research Software Sustainability."
+baseurl: ""
+url: "https://aarunbhardwaj.github.io"
+github_username: aarunbhardwaj
+
+# Build settings
+markdown: kramdown
+theme: null
+plugins: []
+
+# Exclude from processing
+exclude:
+  - .github/
+  - .git/
+  - README.md
+  - skills-lock.json
+  - .agents/
